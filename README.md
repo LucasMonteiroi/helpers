@@ -4,9 +4,12 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![Commits][commits-shield]][commits-url]
+<br />
 [![Build status](https://dev.azure.com/lucasmonteiroi/helpers-nuget/_apis/build/status/helpers-nuget-ASP.NET%20Core-CI)](https://dev.azure.com/lucasmonteiroi/helpers-nuget/_build/latest?definitionId=4)
-[![Nuget Downloads][nuget-shield]][nuget-url]
 ![Nuget Version][nuget-version-shield]
+[![Nuget Downloads][nuget-shield]][nuget-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -87,6 +90,8 @@ Project Link: [https://github.com/lucasmonteiroi/helpers](https://github.com/you
 [contributors-url]: https://github.com/lucasmonteiroi/helpers/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/lucasmonteiroi/helpers.svg
 [forks-url]: https://github.com/lucasmonteiroi/helpers/network/members
+[commits-shield]: https://img.shields.io/github/last-commit/lucasmonteiroi/helpers/master
+[commits-url]: https://github.com/LucasMonteiroi/helpers/commits/master
 [stars-shield]: https://img.shields.io/github/stars/lucasmonteiroi/helpers.svg
 [stars-url]: https://github.com/lucasmonteiroi/helpers/stargazers
 [issues-shield]: https://img.shields.io/github/issues/lucasmonteiroi/helpers.svg
@@ -96,3 +101,4 @@ Project Link: [https://github.com/lucasmonteiroi/helpers](https://github.com/you
 [nuget-shield]: https://img.shields.io/nuget/dt/UsefulHelpers
 [nuget-url]: https://www.nuget.org/packages/UsefulHelpers/
 [nuget-version-shield]: https://img.shields.io/nuget/v/UsefulHelpers
+
