@@ -7,7 +7,7 @@
 [![Commits][commits-shield]][commits-url]
 <br />
 [![Build status](https://dev.azure.com/lucasmonteiroi/helpers-nuget/_apis/build/status/helpers-nuget-ASP.NET%20Core-CI)](https://dev.azure.com/lucasmonteiroi/helpers-nuget/_build/latest?definitionId=4)
-![Nuget Version][nuget-version-shield]
+[![Nuget Version][nuget-version-shield]][nuget-version-url]
 [![Nuget Downloads][nuget-shield]][nuget-url]
 
 
@@ -101,4 +101,4 @@ Project Link: [https://github.com/lucasmonteiroi/helpers](https://github.com/you
 [nuget-shield]: https://img.shields.io/nuget/dt/UsefulHelpers
 [nuget-url]: https://www.nuget.org/packages/UsefulHelpers/
 [nuget-version-shield]: https://img.shields.io/nuget/v/UsefulHelpers
-
+[nuget-version-url]: https://www.nuget.org/packages/UsefulHelpers/
