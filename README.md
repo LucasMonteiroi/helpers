@@ -4,8 +4,9 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Nuget Downloads][nuget-shield]][nuget-url]
 [![Build status](https://dev.azure.com/lucasmonteiroi/helpers-nuget/_apis/build/status/helpers-nuget-ASP.NET%20Core-CI)](https://dev.azure.com/lucasmonteiroi/helpers-nuget/_build/latest?definitionId=4)
+[![Nuget Downloads][nuget-shield]][nuget-url]
+![Nuget Version][nuget-version-shield]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -82,16 +83,16 @@ Project Link: [https://github.com/lucasmonteiroi/helpers](https://github.com/you
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/lucasmonteiroi/helpers.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/lucasmonteiroi/helpers.svg
 [contributors-url]: https://github.com/lucasmonteiroi/helpers/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lucasmonteiroi/helpers.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/lucasmonteiroi/helpers.svg
 [forks-url]: https://github.com/lucasmonteiroi/helpers/network/members
-[stars-shield]: https://img.shields.io/github/stars/lucasmonteiroi/helpers.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/lucasmonteiroi/helpers.svg
 [stars-url]: https://github.com/lucasmonteiroi/helpers/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lucasmonteiroi/helpers.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/lucasmonteiroi/helpers.svg
 [issues-url]: https://github.com/lucasmonteiroi/helpers/issues
-[license-shield]: https://img.shields.io/github/license/lucasmonteiroi/helpers.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/lucasmonteiroi/helpers.svg
 [license-url]: https://github.com/lucasmonteiroi/helpers/blob/master/LICENSE.txt
-[nuget-shield]: https://img.shields.io/nuget/dt/UsefulHelpers?style=flat-square
+[nuget-shield]: https://img.shields.io/nuget/dt/UsefulHelpers
 [nuget-url]: https://www.nuget.org/packages/UsefulHelpers/
-
+[nuget-version-shield]: https://img.shields.io/nuget/v/UsefulHelpers
