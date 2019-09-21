@@ -1,4 +1,4 @@
-/// <summary>
+﻿/// <summary>
 /// Helper to manipule enum linked attributes
 /// </summary>
 public static class EnumHelper

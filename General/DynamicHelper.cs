@@ -1,3 +1,4 @@
+﻿
 /// <summary>
 /// Conversion dynamic object Helper and properties include
 /// </summary>
@@ -38,5 +39,12 @@ public static class DynamicHelper
             expandoDict[propertyName] = propertyValue;
         else
             expandoDict.Add(propertyName, propertyValue);
+    }
+
+    public static void RemoveProperty(ExpandoObject expando, string propertyName)
+    {
+        //Take use of the IDictionary implementation
+        var expandoDict = expando as IDictionary<string, object>;
+        expandoDict.Remove(propertyName);
     }
 }
