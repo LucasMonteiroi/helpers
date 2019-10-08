@@ -56,7 +56,7 @@ To use these classes, fork repository, just copy and paste code to your solution
 
 1. Install Nuget Package on your project
 ```sh
-Install-Package UsefulHelpers -Version 1.0.0
+Install-Package UsefulHelpers
 ```
 
 <!-- CONTRIBUTING -->
