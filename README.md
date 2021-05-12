@@ -76,6 +76,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 Lucas Monteiro Inacio - lmsupport@outlook.com
+<br/>
+<a href="https://www.buymeacoffee.com/lucasmonteiroi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="154"></a>
 
 Project Link: [https://github.com/lucasmonteiroi/helpers](https://github.com/your_username/repo_name)
 
